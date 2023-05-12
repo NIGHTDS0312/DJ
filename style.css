@@ -1,0 +1,55 @@
+body
+{
+
+    background: url("https://i.postimg.cc/Y0WXH7rh/maxresdefault.jpg");
+    background-size: cover;
+
+}
+
+h3
+{
+
+    font-size: 35px;
+    font-family: cursive;
+    color: aquamarine;
+
+}
+
+#note
+{
+
+    font-size: 20px;
+    font-family: cursive;
+    color: coral;
+
+}
+
+.Speed
+{
+
+    float: left;
+
+}
+
+.Volume
+{
+
+    float: right;
+
+}
+
+img
+{
+
+    width: 200px;
+    border-radius: 100px;
+
+}
+
+button
+{
+
+    background-color: aquamarine;
+    font-family: Impact;
+
+}
